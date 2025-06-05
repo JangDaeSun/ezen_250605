@@ -1,0 +1,7 @@
+@charset "utf-8";
+*{
+    box-sizing: border-box;
+    color: inherit;
+    list-style: none;
+}
+html, body{margin: 0; padding: 0;}
